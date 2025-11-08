@@ -368,7 +368,7 @@ nav a:hover::before {
 
 .first-content .main-btn {
 	display: inline-block;
-	margin-right: 15px;
+	margin: 0px 15px;
 }
 
 .first-content .main-btn a {
